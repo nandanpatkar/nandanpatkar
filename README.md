@@ -1,16 +1,48 @@
-## Hi there 👋
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T113256Z&X-Amz-Expires=300&X-Amz-Signature=bc1027fb8e4e78107e7aaabd93c3fd01f802b6533ee9bb2589326a1db1757163&X-Amz-SignedHeaders=host)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Nandan Patkar</h1>
+<h3 align="center">A passionate AIML Engineer</h3>
 
-<!--
-**nandanpatkar/nandanpatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T113055Z&X-Amz-Expires=300&X-Amz-Signature=f1559120d44d4fb4d9824e5183ea37301fe2487628e91ca5a20be0d07489f44c&X-Amz-SignedHeaders=host" alt="nandanpatkar" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="nandanpatkar" /> </p>
+
+<p align="left"> <a href="https://twitter.com/nandan_patkar" target="blank"><img src="https://img.shields.io/twitter/follow/nandan_patkar?logo=twitter&style=for-the-badge" alt="nandan_patkar" /></a> </p>
+
+- 🔭 I’m currently working on [Crick_Chat](https://github.com/nandanpatkar/Crick_Chat)
+
+- 🌱 I’m currently learning **GenAI**
+
+- 📫 How to reach me **nandanpatkar14114@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1LNoedGsiz2bk41_Tp4pGNir-V0gTclR0?usp=drive_link](https://drive.google.com/drive/folders/1LNoedGsiz2bk41_Tp4pGNir-V0gTclR0?usp=drive_link)
+
+- ⚡ Fun fact **Because life’s too short for bad code and bad jokes. I debug bugs, projects, and sometimes people’s bad moods. My humor might not compile, but it always executes. 😏**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nandan_patkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandan_patkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nandan-patkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-patkar" height="30" width="40" /></a>
+<a href="https://kaggle.com/nandanpatkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nandanpatkar" height="30" width="40" /></a>
+<a href="https://instagram.com/shutterbug_nandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shutterbug_nandan" height="30" width="40" /></a>
+<a href="https://medium.com/@nandanpatkar14114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nandanpatkar14114" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nandanpatkn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nandanpatkn" /></a></p><br><br>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanpatkar&show_icons=true&locale=en" alt="nandanpatkar" /></p>
+
+
+
