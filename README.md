@@ -42,7 +42,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanpatkar&show_icons=true&locale=en" alt="nandanpatkar" /></p>
+##<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanpatkar&show_icons=true&locale=en" alt="nandanpatkar" /></p>
 
 
 
