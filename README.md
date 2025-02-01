@@ -117,7 +117,7 @@ Because life’s too short for bad code and bad jokes. I debug bugs, projects, a
 
 
 
-
+![snake gif](https://github.com/nandanpatkar/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 
 
