@@ -17,7 +17,7 @@
 [![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
 
 <h3 align="center">A Passionate AIML Engineer</h3>
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="nandanpatkar" /> </p>
