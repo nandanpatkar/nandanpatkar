@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="nandanpatkar" /> </p>
 <p align="left"> <a href="https://twitter.com/nandan_patkar" target="blank"><img src="https://img.shields.io/twitter/follow/nandan_patkar?logo=twitter&style=for-the-badge" alt="nandan_patkar" /></a> </p>
 
----
+
 
 ## 🔭 **About Me**
 
@@ -74,7 +74,7 @@
 ## 📈 **GitHub Stats**
 
 ### **🔥 Streaks**
-[![GitHub Streak](https://streak-stats.demolab.com?user=nandanpatkar&theme=gruvbox&hide_border=false&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nandanpatkar&theme=gruvbox&hide_border=false&background=0D1117)](https://git.io/streak-stats) <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### **📊 Contribution Graph**
 [![Nandan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandanpatkar&theme=react-dark)](https://github.com/nandanpatkar)
