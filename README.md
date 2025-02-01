@@ -1,4 +1,3 @@
-[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250109T113256Z&X-Amz-Expires=300&X-Amz-Signature=bc1027fb8e4e78107e7aaabd93c3fd01f802b6533ee9bb2589326a1db1757163&X-Amz-SignedHeaders=host)](https://rishavchanda.io)
 
 
 
