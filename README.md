@@ -42,13 +42,17 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,8 +63,14 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
----
+
+ 
+
+
 
 ## 📈 **GitHub Stats**
 
@@ -77,7 +87,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandanpatkar&layout=compact&theme=radical)
 
 ---
-
+## 🐍 **Dynamic Contribution Snake**
+![snake gif](https://github.com/nandanpatkar/nandanpatkar/blob/output/github-snake-dark.svg)
 ## 🌐 **Connect with Me**
 
 <p align="left">
@@ -90,6 +101,8 @@
 
 ---
 
+
+---
 ## 🛠️ **Support**
 
 If you like my work, consider supporting me:
@@ -98,10 +111,7 @@ If you like my work, consider supporting me:
 
 ---
 
-## 🐍 **Dynamic Contribution Snake**
-![GitHub Snake Animation](https://github.com/nandanpatkar/nandanpatkar/blob/output/github-contribution-grid-snake.svg)
 
----
 
 ## ✍️ **Blogs**
 
@@ -117,7 +127,7 @@ Because life’s too short for bad code and bad jokes. I debug bugs, projects, a
 
 
 
-![snake gif](https://github.com/nandanpatkar/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 
 
 
