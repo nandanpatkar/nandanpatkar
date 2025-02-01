@@ -44,5 +44,5 @@
 
 ##<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanpatkar&show_icons=true&locale=en" alt="nandanpatkar" /></p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nandanpatkar&theme=gruvbox&hide_border=false&background=0D1117)](https://git.io/streak-stats)
 
