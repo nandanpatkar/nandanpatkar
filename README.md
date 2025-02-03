@@ -74,7 +74,17 @@
 ## 📈 **GitHub Stats**
 
 ### **🔥 Streaks**
-[![GitHub Streak](https://streak-stats.demolab.com?user=nandanpatkar&theme=gruvbox&hide_border=false&background=0D1117)](https://git.io/streak-stats) <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=nandanpatkar&theme=gruvbox&hide_border=false&background=0D1117)](https://git.io/streak-stats) 
+
+
+
+
+
+
+
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### **📊 Contribution Graph**
 [![Nandan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandanpatkar&theme=react-dark)](https://github.com/nandanpatkar)
