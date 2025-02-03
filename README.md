@@ -84,7 +84,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### **📊 Contribution Graph**
 [![Nandan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandanpatkar&theme=react-dark)](https://github.com/nandanpatkar)
